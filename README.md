@@ -1,50 +1,46 @@
-## 👩‍💻 &nbsp;About Me
+# Sayed Mohammad Amin Emrani
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,ts,react,nextjs,flutter,dart,androidstudio,kotlin,laravel,php,java,swift,c,python,django" />
-  </a>
+### Go (Golang) Developer · Backend Software Engineer
+
+I build backend services and business applications with Go as my primary focus. I bring nearly a decade of broader software development experience across web, mobile, infrastructure, and connected devices.
+
+My interests include maintainable APIs, relational data modeling, concurrent programming, multi-tenant SaaS architecture, and reliable delivery.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=flat-square&logo=go&logoColor=white)](https://smae1993.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/smae1993)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smae1993@gmail.com)
+
+## Backend toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Go** | Go, standard library, Gin, GORM |
+| **Data** | PostgreSQL, MySQL, SQLite, Redis |
+| **Infrastructure** | Docker, Linux, Nginx, Git, CI/CD |
+| **Application development** | REST APIs, authentication, multi-tenancy, Laravel, NestJS, ASP.NET Core |
+| **Complementary skills** | React, Next.js, Flutter, Dart, C, ESP32, MQTT |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,mysql,redis,docker,linux,nginx,git" alt="Go backend and infrastructure toolkit"/>
 </p>
 
-Fullstack developer with nearly 10 years of experience. I'm always ready to tackle challenging projects, quickly learn new technologies, and deliver the best possible results.
-I specialize in responsive design, cross-browser compatibility, and writing reusable, maintainable code.<br/> I’m dedicated to learning whatever it takes to ensure project success.
-<br/>
-Feel free to reach out at smae1993@gmail.com
+## Selected public Go repositories
 
-<br/>
-<br/>
+| Repository | Focus |
+| --- | --- |
+| [go-user-crud-app](https://github.com/smae1993/go-user-crud-app) | User CRUD application in Go |
+| [my_first_go_web_api](https://github.com/smae1993/my_first_go_web_api) | Go web API exploration |
 
-## 🛠 &nbsp;Tech Stack
+## Current focus
 
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=for-the-badge&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=Wordpress)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+- Idiomatic Go, concurrency, context cancellation, and robust error handling.
+- API design, database access, testing, and performance profiling.
+- Designing and building Go-based business software with a production-oriented mindset.
 
-<br/>
-<br/>
+Explore my [portfolio](https://smae1993.github.io/) for selected product work, or browse my [public repositories](https://github.com/smae1993?tab=repositories).
 
-## ⚙️ &nbsp;GitHub Analytics
+## GitHub activity
 
-<p align="center">
-<a href="https://github.com/smae1993">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smae1993&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smae1993&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<br/>
-<br/>
-
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/smae1993"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:smae1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smae1993&show_icons=true&theme=algolia" alt="GitHub activity"/>
 </p>
